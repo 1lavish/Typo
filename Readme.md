@@ -1,0 +1,1 @@
+# Typo is successfully created by auto_project_setup.py
